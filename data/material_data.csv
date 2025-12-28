@@ -1,0 +1,4 @@
+Material_Name,Primary_Raw_Material,Renewable_Content_Percent,Estimated_Production_Energy_MJ_per_kg,Estimated_Carbon_Footprint_kg_CO2e_per_kg,Average_Lifespan_years,Recyclability_Percent
+PVC,Salt & Oil,0,80,3.5,50,30
+Copper,Copper Ore,0,60,4.0,70,90
+PEX,Natural Gas,0,85,2.8,40,10
