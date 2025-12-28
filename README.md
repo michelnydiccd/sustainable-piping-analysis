@@ -27,7 +27,7 @@ Score = (Renewable_Content_Percent * 0.3) + (Average_Lifespan_years * 0.25) + (R
 
 ## Data
 
-The dataset includes sample data for PVC, Copper, and PEX (cross-linked polyethylene). Each material is characterized by raw material source, renewable content percentage, production energy, carbon footprint, average lifespan, and recyclability percentage.
+The dataset includes sample data for PVC, Copper, PEX (cross-linked polyethylene), and Galvanized Steel. Each material is characterized by raw material source, renewable content percentage, production energy, carbon footprint, average lifespan, and recyclability percentage.
 
 ## Future Work
 
